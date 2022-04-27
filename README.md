@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning `whatever I need rn`
 - 💞️ I’m looking to collaborate on `fresh ideas`
 - 📫 How to reach me?
-  * Discord: **Andromeda#1000**
+  * Discord: **Andromeda#1155**
   * Twitter: **[DevAndromeda7](https://twitter.com/DevAndromeda7)**
