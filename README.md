@@ -5,7 +5,7 @@ Hello, myself Andromeda. I am a student and a developer. I mostly contribute to 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/uqB8kxh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12228696) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DevAndromeda7)
 
-## Projects
+## 📒 Projects
 ### JavaScript
 #### 🖼️ **[Illustrator.js](https://github.com/cesiumlabs/illustrator.js)**
 Illustrator is an image processing framework built with **[@napi-rs/canvas](https://npm.im/@napi-rs/canvas)**, powered by **[skia graphics](https://skia.org)**.
