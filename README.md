@@ -1,4 +1,4 @@
-# Introduction
+# Introduction 👋
 
 Hello, myself Andromeda. I am a student and a developer. I mostly contribute to open source projects here on GitHub.
 
